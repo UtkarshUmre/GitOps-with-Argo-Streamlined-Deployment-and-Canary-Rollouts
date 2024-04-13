@@ -9,7 +9,7 @@ spec:
   source:
     repoURL: https://github.com/UtkarshUmre/tic-tac-toe-web-app.git
     targetRevision: HEAD
-    path: dev
+    path: manifests
   destination:
     server: https://kubernetes.default.svc
     namespace: myapp
