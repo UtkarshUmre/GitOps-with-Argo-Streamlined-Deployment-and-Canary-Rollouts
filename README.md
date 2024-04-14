@@ -70,7 +70,8 @@ In this video, I've shown the process of deploying an application to Kubernetes 
 
 ---
 
-[Screencast from 14-04-24 08:14:36 AM IST.webm](https://github.com/UtkarshUmre/vodeo-test/assets/112888849/76dea11d-b1e0-476f-87ae-547f79ed749c)
+
+[Screencast from 14-04-24 08:14:36 AM IST.webm](https://github.com/UtkarshUmre/GitOps-with-Argo-Streamlined-Deployment-and-Canary-Rollouts/assets/112888849/98d1a639-a5e6-4b1f-a641-8103e259cdcb)
 
 ---
 
@@ -119,7 +120,8 @@ This is how we can successfully implement a canary release using Argo Rollouts. 
 
 ---
 
-[Screencast from 14-04-24 06:23:46 AM IST.webm](https://github.com/UtkarshUmre/video-test/assets/112888849/c490987e-f339-4498-9b7a-76c9bfa7b95c)
+[Screencast from 14-04-24 06:23:46 AM IST.webm](https://github.com/UtkarshUmre/GitOps-with-Argo-Streamlined-Deployment-and-Canary-Rollouts/assets/112888849/e666b70c-b025-4c39-97cf-b1ab383976a1)
+
 
 ---
 
