@@ -2,7 +2,7 @@
 
    <image src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG4wNTVobzFzeHRwMGd2cjN2eWcyNm9tZGJ2bGJraWFjMmJsYnJraiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cF95iWl8uhdoMCr08C/giphy.gif">
 
-```This project utilizes GitOps principles for deploying and managing a canary release of a web application using Argo Rollouts. The web application is deployed to a Kubernetes cluster using Argo CD.
+This project utilizes GitOps principles for deploying and managing a canary release of a web application using Argo Rollouts. The web application is deployed to a Kubernetes cluster using Argo CD.
 
 In the GitOps ideology, Git serves as the single source of truth. Any changes made to the deployment YAML file are automatically synchronized to achieve the desired state, a process facilitated by Argo CD.
 
@@ -13,7 +13,7 @@ For those unfamiliar with the term, a canary release is a gradual, step-by-step 
 This project successfully implements the concept of a canary release with the help of Argo Rollouts.
 
 The following sections provide a detailed, step-by-step procedure of this project, including the challenges faced during its development and how they were resolved. By following this guide, you too can replicate this project. Here is a summary of the project.
-```
+
 
 ## step 1
 
